@@ -14,6 +14,7 @@
 
 
 
+
 Aplico Ciência de dados no desenvolvimento, implantação e monitoramento para as soluções de Inteligência Artificial aplicada a diversas vertentes de negócios.
 
 **Background in:** Python, Machine Learning
